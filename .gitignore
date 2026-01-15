@@ -1,0 +1,13 @@
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略抓取产生的数据文件夹
+wind_intelligence_data/
+
+# 忽略虚拟环境
+venv/
+.venv/
+
+# 忽略本地环境变量文件
+.env
